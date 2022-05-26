@@ -1,0 +1,7 @@
+# Redirects from what the browser requests to what we serve
+/              https://pastes.io
+/blog/my-post.php  https://pastes.io
+/news              https://pastes.io
+/cuties            https://pastes.io
+/index.php         https://pastes.io
+/                  https://pastes.io
